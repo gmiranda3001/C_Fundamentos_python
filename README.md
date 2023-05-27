@@ -1,5 +1,3 @@
-# Curso de Fundamentos de Python
-"Repositorio del 'Curso de fundamentos de Python': código, ejercicios y recursos para aprender programación básica en Python de manera práctica y divertida. ¡Únete y domina Pyth
 # Curso de fundamentos de Python
 
 Este repositorio contiene el código y los recursos utilizados en el *Curso de fundamentos de Python* de [nombre del curso o plataforma]. El curso abarca los conceptos básicos de programación en Python, incluyendo variables, estructuras de control, funciones, listas, diccionarios y más.
