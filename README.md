@@ -4,10 +4,13 @@ Este repositorio contiene el código y los recursos utilizados en el *Curso de f
 
 ## Contenido del repositorio
 
-- `ejemplos/`: Carpeta que contiene ejemplos de código para cada tema cubierto en el curso.
-- `ejercicios/`: Carpeta con ejercicios prácticos para reforzar los conceptos aprendidos.
-- `soluciones/`: Carpeta que contiene las soluciones de los ejercicios propuestos.
-- `recursos/`: Carpeta con recursos adicionales, como enlaces a documentación relevante y referencias útiles.
+- `ejemplos/`: Este directorio contiene ejemplos de código para cada tema cubierto en el curso. Puedes explorar estos ejemplos para ver cómo se implementan los conceptos de programación en Python. Estos ejemplos pueden servirte como referencia y punto de partida para tus propios proyectos.
+
+- `ejercicios/`: En este directorio encontrarás ejercicios prácticos que te ayudarán a reforzar los conceptos aprendidos en el curso. Los ejercicios están diseñados para que puedas poner en práctica lo que has aprendido y mejorar tus habilidades de programación en Python.
+
+- `soluciones/`: Este directorio contiene las soluciones de los ejercicios propuestos. Después de intentar resolver los ejercicios por tu cuenta, puedes consultar las soluciones en este directorio para comparar tus resultados y aprender de diferentes enfoques y técnicas.
+
+- `recursos/`: Aquí encontrarás recursos adicionales que complementan el contenido del curso. Estos recursos pueden incluir enlaces a documentación relevante, tutoriales, artículos, libros u otras referencias útiles. Explora esta carpeta para obtener más información y profundizar en los temas relacionados con Python.
 
 ## Cómo utilizar este repositorio
 
@@ -20,3 +23,5 @@ Este repositorio contiene el código y los recursos utilizados en el *Curso de f
 ¡Diviértete aprendiendo Python!
 
 Recuerda personalizar el archivo README.md con la información específica de tu curso, plataforma y cualquier otro detalle relevante. Además, puedes agregar secciones adicionales, como "Requisitos previos" o "Contribuciones bienvenidas", según corresponda.
+
+
